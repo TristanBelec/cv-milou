@@ -68,26 +68,6 @@ ul li {
   background-repeat: no-repeat;
 }
 
-@media all and (orientation:portrait) 
-{	
-	.flex
-	{	
-		width:75%;
-	}
-	
-	.titre
-	{
-		width:75%:
-	}
-	
-	.colonne-gauche
-	{
-		width:75%
-	}
-	
-	
-	
-}
 
 
 		
